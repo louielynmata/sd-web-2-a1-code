@@ -47,7 +47,7 @@ main {
 
 /* Section styles */
 section {
-  background: #000000;
+  background: #13192f;
   margin-bottom: 2rem;
   padding: 1.5rem;
   border-radius: 12px;
@@ -56,14 +56,14 @@ section {
 }
 
 section h2 {
-  color: #8a9be8;
+  color: #afbbf2;
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
   font-weight: 500;
 }
 
 section p {
-  color: #dfdee0;
+  color: #f4f4f4;
   margin-bottom: 1rem;
   font-size: 1rem;
 }
@@ -84,10 +84,12 @@ footer {
 }
 
 .output h3 {
-  color: #9e9e9e;
+  color: rgb(132, 132, 132);
   font-size: 1.1rem;
   margin-bottom: 0.75rem;
   font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 /* List styles */
@@ -98,16 +100,18 @@ ul {
 
 ul li {
   background: #ffffff;
+  color: #333333;
   margin-bottom: 0.5rem;
   padding: 0.75rem;
   border-radius: 4px;
-  border-left: 3px solid #28a745;
+  border-left: 5px solid #5fccff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease;
 }
 
 ul li:hover {
   transform: translateX(5px);
+  background-color: #e0e5fb;
 }
 
 ul li:last-child {
