@@ -19,10 +19,10 @@ This is a summary of the main tasks you need to complete.
   - [x] Fix all bugs in the HTML, CSS, and JavaScript files.
   - [x] Move any existing images into your new asset folder.
   - [x] Fill out the "Git Terminology Definitions" section in this README. (Scrapped according to the Instructor)
-- [ ] **Part 3: Submission**
+- [x] **Part 3: Submission**
   - [x] Make at least two meaningful Git commits and push them to GitHub.
-  - [ ] Deploy your fixed website using GitHub Pages.
-  - [ ] Submit your repository and live GitHub Pages links to Brightspace.
+  - [x] Deploy your fixed website using GitHub Pages.
+  - [x] Submit your repository and live GitHub Pages links to Brightspace.
 
 ---
 
