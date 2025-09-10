@@ -28,6 +28,7 @@ const brokenUsers = [
 /**
  * Reusable GUARD FUNCTION - Checks if the user object has a valid name property.
  * @param {Object} user - The user object to check.
+ * @param {string} locationId - The ID of the HTML element to display error messages.
  * @returns {boolean} - Returns true if the name is valid, false otherwise.
  */
 const validateUser = (userObject, locationId) => {
